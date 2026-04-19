@@ -159,7 +159,7 @@ http://localhost:5000
 
 ## 👨‍💻 Author
 
-**Pranav**
+**Nagendra**
 B.Tech CSE (AI/ML)
 
 ---
